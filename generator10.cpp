@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 ofstream myfile;
-myfile.open("255x255v1333.html");
+myfile.open("filename.html");
 const double c = 1;
 
 myfile << "<html>\n<head></head>\n<body>\n<table width=100%\"\">";
